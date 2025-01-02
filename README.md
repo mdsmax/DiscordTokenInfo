@@ -28,7 +28,7 @@ Uma API desenvolvida para facilitar o gerenciamento de bots do Discord utilizand
 
 **Requisição:**
 ```bash
-curl -X POST https://seuservidor.com/api/bot/validate \
+curl -X POST https://tokenmgr.squareweb.app/api/bot/validate \
 -H "Content-Type: application/json" \
 -d '{ "token": "seu_token_aqui" }'
 ```
