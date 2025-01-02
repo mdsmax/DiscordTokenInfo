@@ -5,27 +5,10 @@ Uma API desenvolvida para facilitar o gerenciamento de bots do Discord utilizand
 
 ---
 
-## Principais Funcionalidades
-
-### 1. **Validação de Token**
-- Verifica a autenticidade do token e retorna informações do bot.
-
-### 2. **Manipulação de Intents**
-- Ativa todas as intents de um bot.
-- Lista todas as intents ativadas/desativadas.
-
-### 3. **Alteração de Informações do Bot**
-- Permite modificar o nome, descrição, avatar e banner do bot.
-
-### 4. **Informações Básicas do Bot**
-- Retorna informações detalhadas da conta do bot.
-
----
-
 ## Estrutura dos Endpoints
 
 ### **Base URL**
-`https://seuservidor.com/api`
+`https://tokenmgr.squareweb.app/api`
 
 ### **Endpoints Disponíveis**
 
